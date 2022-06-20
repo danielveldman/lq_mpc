@@ -11,6 +11,7 @@ This repository contains code for the application of MPC to linear systems in wh
 %![MPCAX_wave](figures/MPCAX_T=41250_tau=1250.jpeg) -->
 
 <p align="center">
+<img src="figures/MPCw_T=41250_tau=1250.jpeg" width="350" title="MPC control">
 ![MPCw_wave](figures/MPCw_T=41250_tau=1250.jpeg)
 Figure 1: MPC control obtained by running 
 </p>

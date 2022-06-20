@@ -15,10 +15,8 @@ Figure 1: MPC control obtained by running
 ![MPCwX_wave](figures/MPCwX_T=41250_tau=1250.jpeg)
 Figure 2: Norm of the state trajectory resulting from the application of the control in Figure 1. 
 
-<p align="center">
-![MPCconv_wave](figures/Fig6a.PNG)
+![test](figures/fig6a.jpg)
 Figure 3: Convergence analysis for MPC when varying $T - \tau$
-</p>
 
 <!-- ![MPCconvw_wave](figures/Fig6b.PNG)
 ![MPCconvA_wave](figures/Fig6c.PNG) -->

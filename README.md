@@ -10,13 +10,19 @@ This repository contains code for the application of MPC to linear systems in wh
 %![MPCA_wave](figures/MPCA_T=41250_tau=1250.jpeg)
 %![MPCAX_wave](figures/MPCAX_T=41250_tau=1250.jpeg) -->
 
+<p align="center">
 ![MPCw_wave](figures/MPCw_T=41250_tau=1250.jpeg)
 Figure 1: MPC control obtained by running 
+</p>
+<p align="center">
 ![MPCwX_wave](figures/MPCwX_T=41250_tau=1250.jpeg)
 Figure 2: Norm of the state trajectory resulting from the application of the control in Figure 1. 
+</p>
 
+<p align="center">
 ![MPCconv_wave](figures/Fig6a.PNG)
 Figure 3: Convergence analysis for MPC when varying $T - \tau$
+</p>
 
 <!-- ![MPCconvw_wave](figures/Fig6b.PNG)
 ![MPCconvA_wave](figures/Fig6c.PNG) -->

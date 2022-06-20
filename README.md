@@ -1,11 +1,11 @@
 # Model Predictive Control
-A simple implementation of Model Predictive Control of unconstrained linear dynamics with quadratic cost functionals
+A simple implementation of Model Predictive Control of unconstrained linear dynamics such as (discretized) wave and heat equations with quadratic cost functionals. 
 
-%![MPC_wave](figures/MPC_T=41250_tau=1250.jpeg)
-%![MPCX_wave](figures/MPCX_T=41250_tau=1250.jpeg)
+<!-- [MPC_wave](figures/MPC_T=41250_tau=1250.jpeg)
+%[MPCX_wave](figures/MPCX_T=41250_tau=1250.jpeg)
 
 %![MPCA_wave](figures/MPCA_T=41250_tau=1250.jpeg)
-%![MPCAX_wave](figures/MPCAX_T=41250_tau=1250.jpeg)
+%![MPCAX_wave](figures/MPCAX_T=41250_tau=1250.jpeg) -->
 
 ![MPCw_wave](figures/MPCw_T=41250_tau=1250.jpeg)
 ![MPCwX_wave](figures/MPCwX_T=41250_tau=1250.jpeg)

@@ -1,6 +1,6 @@
 # Model Predictive Control
 A simple implementation of Model Predictive Control (MPC) of unconstrained linear dynamics such as (discretized) wave and heat equations with quadratic cost functionals. 
-This repository contains code for the application of MPC to linear systems in which the plant model used by the MPC controller can differ from the plant that is being controlled. It also contains codes that show the convergence of MPC in $T-\tau$ and $\tau$. This was used to do the numerical simulations in (https://arxiv.org/abs/2206.01097). 
+This repository contains code for the application of MPC to linear systems in which the plant model used by the MPC controller can differ from the plant that is being controlled. It also contains codes that show the convergence of MPC in $T-\tau$ and $\tau$. This was used to do the numerical simulations in https://arxiv.org/abs/2206.01097. 
 
 
 
@@ -17,7 +17,6 @@ Figure 2: Norm of the state trajectory resulting from the application of the con
 
 ![MPCconv_wave](figures/Fig6a.PNG)
 Figure 3: Convergence analysis for MPC when varying $T - \tau$
-
 
 <!-- ![MPCconvw_wave](figures/Fig6b.PNG)
 ![MPCconvA_wave](figures/Fig6c.PNG) -->

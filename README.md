@@ -15,5 +15,7 @@ Figure 2: Norm of the state trajectory resulting from the application of the con
 
 ![MPCconv_wave](figures/Fig6a.PNG)
 Figure 3: Convergence analysis for MPC when varying $T - \tau$
+
+
 <!-- ![MPCconvw_wave](figures/Fig6b.PNG)
 ![MPCconvA_wave](figures/Fig6c.PNG) -->

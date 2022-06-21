@@ -7,13 +7,14 @@ Main features:
 * Imperfections in the plant model can be included. 
 * Numerical validation of convergence rates for $(T-\tau, \tau) \rightarrow (\infty, 0)$.
 
+
 ![MPCw_wave](figures/MPCw_T=41250_tau=1250.jpeg)
-Figure 1: MPC control obtained by running MPC_wave_w.m
+
+Figure 1: MPC control obtained by running MPC_wave_w.m with $(T-\tau, \tau) = (4, 1/16)$.
+
 ![MPCwX_wave](figures/MPCwX_T=41250_tau=1250.jpeg)
 Figure 2: Norm of the state trajectory resulting from the application of the control in Figure 1. 
 
-![test](figures/fig6a.jpg)
-Figure 3: Convergence analysis for MPC when varying $T - \tau$
+![Fig6a](figures/fig6a.jpg)
 
-<!-- ![MPCconvw_wave](figures/Fig6b.PNG)
-![MPCconvA_wave](figures/Fig6c.PNG) -->
+Figure 3: Numerical validation of the convergence rates for MPC when varying $T - \tau$

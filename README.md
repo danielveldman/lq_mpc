@@ -3,7 +3,7 @@ A simple implementation of Model Predictive Control (MPC) of unconstrained linea
 This was used to do the numerical simulations in https://arxiv.org/abs/2206.01097. 
 
 Main features:
-* Comparison the MPC control to the inifnite horizon optimal control and the MPC limit (as defined in https://arxiv.org/abs/2206.01097).
+* Comparison the MPC control to the infinite horizon optimal control and the MPC limit (as defined in https://arxiv.org/abs/2206.01097).
 * Imperfections in the plant model can be included. 
 * Numerical validation of convergence rates for $(T-\tau, \tau) \rightarrow (\infty, 0)$.
 

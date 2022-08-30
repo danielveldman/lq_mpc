@@ -42,10 +42,7 @@ Mass = I;
 % X0 = [erf(2*(x-L/2)).'; zeros(N,1)];
 X0 = (x-L/2).'; 
 
-% X0 = [erf(2*(x-L/2)).'; zeros(N,1)];
-X0 = [((x-L/2)).'; zeros(N,1)]; % initial condition (position, velocity)
-
-Q = [dx*I*1000, O; O, O]; % weighting matrices and target trajectory
+Q = dx*I*1000; % weighting matrices and target trajectory
 R = 1;
 xd =@(t) 0;
 
